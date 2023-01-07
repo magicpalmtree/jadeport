@@ -1,0 +1,163 @@
+{
+  "name": "Jade Nan",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Jade Nan - Enthusiastic",
+  "headerTaglineThree": "Senior React & Blockchain Developer",
+  "headerTaglineFour": " based in Knoxville, Tennessee.",
+  "showBlog": true,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/devofficer"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/jadenan15/"
+    },
+    {
+      "id": "3",
+      "title": "Skype",
+      "link": "https://join.skype.com/invite/kZHyByKinICM"
+    },
+    {
+      "id": "4",
+      "title": "Email",
+      "link": "mailto:jadenan115@gmail.com"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Project One Test",
+      "description": "Web Design",
+      "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://jadenan115.com/"
+    },
+    {
+      "id": "2",
+      "title": "Project Two",
+      "description": "Web Development",
+      "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://jadenan115.com/"
+    },
+    {
+      "id": "3",
+      "title": "Project Three",
+      "description": "Design",
+      "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://jadenan115.com/"
+    },
+    {
+      "id": "4",
+      "title": "Project Four",
+      "description": "Marketing",
+      "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://jadenan115.com/"
+    },
+    {
+      "id": "5",
+      "title": "Project Five",
+      "description": "Development",
+      "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://jadenan115.com/"
+    },
+    {
+      "id": "6",
+      "title": "Project Six",
+      "description": "Design & Development",
+      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+      "url": "http://jadenan115.com/"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Art Direction",
+      "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
+    },
+    {
+      "id": "2",
+      "title": "Branding",
+      "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+    },
+    {
+      "id": "3",
+      "title": "Web Design",
+      "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+    },
+    {
+      "id": "4",
+      "title": "3D Design",
+      "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+    }
+  ],
+  "aboutpara": "I am an enthusiastic senior React & Blockchain developer with over 6 years of professional experience. I have started my working as a frontend developer since 2017 and have experienced almost all frontend and backend frameworks. For Blockchain, I was so motivated to learn a new technology back in 2018 and both working on backend design and building smart contracts.",
+  "resume": {
+    "tagline": "👋  I'm a senior React & Blockchain developer.",
+    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "April 2022 - August 2022",
+        "type": "Full Time",
+        "position": "Senior Frontend Engineer at Web3Jobs",
+        "bullets": "Next.js · TypeScript · Search Engine Optimization (SEO) · Firebase · web3.js, https://web3.jobs/"
+      },
+      {
+        "id": "2",
+        "dates": "April 2021 - March 2022",
+        "type": "Contract",
+        "position": "Senior Frontend Enginer at TakaProtocol",
+        "bullets": "Next.js · TypeScript · Tailwind CSS · MUI · Amazon Web Services (AWS), https://takaprotocol.org/"
+      },
+      {
+        "id": "3",
+        "dates": "June 2020 - May 2021",
+        "type": "Contract",
+        "position": "Blockchain Developer at Polars.io",
+        "bullets": "Solidity · Smart Contracts · Hardhat, https://polars.io/"
+      },
+      {
+        "id": "4",
+        "dates": "June 2019 - August 2021",
+        "type": "Full Time",
+        "position": "Senior Frontend Developer at UtopiaTech",
+        "bullets": "Next.js · JavaScript · AWS Lambda · Serverless Framework · Jest"
+      },
+      {
+        "id": "5",
+        "dates": "March 2017 - June 2019",
+        "type": "Full Time",
+        "position": "Frontend Web Developer at GreyLoud",
+        "bullets": "React.js · TypeScript · JavaScript · Node.js · MongoDB · Express.js · Vue.js"
+      }
+    ],
+    "education": {
+      "universityName": "The University of Hong Kong",
+      "universityDate": "09/2012 - 01/2017,",
+      "universityPara": "Bachelor of Science - BS, Computer Science"
+    },
+    "languages": [
+      "Javascript",
+      "HTML5",
+      "SCSS",
+      "Solidity"
+    ],
+    "frameworks": [
+      "React",
+      "Typescript",
+      "Next.js",
+      "Svelte",
+      "Hardhat"
+    ],
+    "others": [
+      "Figma",
+      "Firebase",
+      "AWS"
+    ]
+  }
+}
